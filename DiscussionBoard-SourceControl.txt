@@ -1,0 +1,14 @@
+Link: https://github.com/github/gitignore
+Description: Since I am still relatively new to using Git, I wanted to save this repo in particular. I am most familiar with C# and C++, and it has templates for C++ as well as other programming languages that I may learn or be interested in like Python, Swift, and Java. I am also curious to explore their templates for Unity and Unreal Engine.
+
+Link: https://github.com/practical-tutorials/project-based-learning
+Description: This one caught my eye because it has tutorials on so many different languages. I’m not decided on a particular language, so this one will be interesting to browse and recreate.
+
+Link: https://github.com/coinpride/CryptoList
+Description: I liked this one because I have no idea how cryptocurrency actually works, and it seems very risky. I like that this has links for learning about the different currencies, resources for mining, and even a game link called ‘CryptoKitties’ that is labeled as “one of the world’s first blockchain game” that I’ll be exploring later.
+
+Link: https://github.com/sagemeadows/cryptogram
+Description: I love cryptogram puzzles, although they’re not safe for passwords and such. This one goes through developing a cryptogram application in Python.
+
+Link: https://github.com/insurgentgames/Cryptose
+Description: Since I was looking at cryptogram ones, this is about a specific cryptogram game I’ve not played before, called Cryptose. Apparently you can choose a profession (hacker, detective, or spy) which I am assuming adjusts the difficulty or interface of the game. It was also programmed in C++, so I should be able to understand the majority of it.
